@@ -6,3 +6,7 @@ zxcvbn/test
 zxcvbn/tools
 zxcvbn/scripts
 zxcvbn/*.coffee
+init.js
+async.js
+matching.js
+scoring.js
