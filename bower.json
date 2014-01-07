@@ -1,6 +1,6 @@
 {
   "name": "node-zxcvbn",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": [
     "zxcvbn/zxcvbn.js",
     "zxcvbn/zxcvbn-async.js"
