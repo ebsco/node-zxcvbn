@@ -1,5 +1,5 @@
 
-ZXCVBN_SRC = 'javascripts/vendor/zxcvbn.js'
+ZXCVBN_SRC = '/bower_components/zxcvbn/zxcvbn.js'
 
 # adapted from http://friendlybit.com/js/lazy-loading-asyncronous-javascript/
 async_load = ->
